@@ -12,6 +12,7 @@ bool ACDSAILauncherWeapon::GetTraceData(FVector& TraceStart, FVector& TraceEnd) 
     {
         if(const auto AIController = AIPawn->GetAIController())
         {
+            
             TraceStart = GetMuzzleWorldLocation();
             if (AIController->GetFocusActor())
             {
