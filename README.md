@@ -8,7 +8,7 @@
 **Platforms:** Windows <br>
 **Technologies & Patterns:** C++, UMG, AI, Blackboard, Behaviour tree, Services, Unreal Audio System, Unreal Enhanced Input <br>
 
-**Input:** W - move forward, S - move back, A - move left, D - move right, SPACE - for move up, LCTRL - for move down,  Mouse - for camera control, LMB - Fire.<br>
+**Input:** W - move forward, S - move back, A - move left, D - move right, SPACE - for move up, LALT - for move down,  Mouse - for camera control, LMB - Fire.<br>
 
 **Description:** Simple drone minigame using UE5. The drone is:
 <br>
